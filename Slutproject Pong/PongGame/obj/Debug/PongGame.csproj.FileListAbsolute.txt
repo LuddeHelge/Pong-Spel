@@ -1,0 +1,18 @@
+C:\Users\banan\source\repos\PongGame\PongGame\bin\Debug\PongGame.exe.config
+C:\Users\banan\source\repos\PongGame\PongGame\bin\Debug\PongGame.exe
+C:\Users\banan\source\repos\PongGame\PongGame\bin\Debug\PongGame.pdb
+C:\Users\banan\source\repos\PongGame\PongGame\obj\Debug\PongGame.csprojResolveAssemblyReference.cache
+C:\Users\banan\source\repos\PongGame\PongGame\obj\Debug\PongGame.Form1.resources
+C:\Users\banan\source\repos\PongGame\PongGame\obj\Debug\PongGame.Properties.Resources.resources
+C:\Users\banan\source\repos\PongGame\PongGame\obj\Debug\PongGame.csproj.GenerateResource.cache
+C:\Users\banan\source\repos\PongGame\PongGame\obj\Debug\PongGame.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\PongGame\PongGame\obj\Debug\PongGame.exe
+C:\Users\banan\source\repos\PongGame\PongGame\obj\Debug\PongGame.pdb
+C:\Users\Kingen\Desktop\Slutproject Pong\PongGame\obj\Debug\PongGame.csprojAssemblyReference.cache
+C:\Users\Kingen\Desktop\Slutproject Pong\PongGame\obj\Debug\PongGame.Form1.resources
+C:\Users\Kingen\Desktop\Slutproject Pong\PongGame\obj\Debug\PongGame.Properties.Resources.resources
+C:\Users\Kingen\Desktop\Slutproject Pong\PongGame\obj\Debug\PongGame.csproj.GenerateResource.cache
+C:\Users\Kingen\Desktop\Slutproject Pong\PongGame\obj\Debug\PongGame.csproj.CoreCompileInputs.cache
+C:\Users\Kingen\Desktop\Slutproject Pong\PongGame\obj\Debug\PongGame.exe
+C:\Users\Kingen\Desktop\Slutproject Pong\PongGame\obj\Debug\PongGame.pdb
+C:\Users\Kingen\Desktop\Slutproject Pong\PongGame\obj\Debug\PongSpel.Form1.resources
